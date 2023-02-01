@@ -21,7 +21,7 @@ footer {
 
 footer a {
   margin: 0 10px;
-  color: green;
+  color: #eba300;
 }
 
 .croissants-pic {
@@ -29,4 +29,8 @@ footer a {
   border-radius: 10px;
   display: block;
   margin: 30px auto;
+}
+
+.email-link {
+  color: blue;
 }
